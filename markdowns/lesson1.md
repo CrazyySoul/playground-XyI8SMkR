@@ -4,7 +4,7 @@
 // { autofold
 package Test;
 
-public class main {
+public class Hello {
 
 	public static void main(String[] args) {
 // }
