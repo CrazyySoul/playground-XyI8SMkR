@@ -1,4 +1,5 @@
-title: Custom Template
+title: Design Pattern Decorator
 plan:
-- title: Welcome
+- title: Le Decorateur
   statement: markdowns/welcome.md
+- partie1: Le pattern
