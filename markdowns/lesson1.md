@@ -2,7 +2,7 @@
 
 ```java runnable
 // { autofold
-public class Hello {
+public class Main {
 
 	public static void main(String[] args) {
 // }
