@@ -6,3 +6,9 @@ plan:
   statement: markdowns/welcome.md
 - title: Le pattern
   statement: markdowns/lesson1.md
+  
+projects:
+  java:
+    root: projects
+    buildCommand: cd projects/Test/src/Test && javac main.java
+    runner: cd projects/Test/src && java main
