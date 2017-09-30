@@ -2,5 +2,5 @@ title: Design Pattern Decorator
 plan:
 - title: Le Decorateur
   statement: markdowns/welcome.md
-- partie1: Le pattern
+- title: Le pattern
   statement: markdowns/lesson1.md
