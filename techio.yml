@@ -7,7 +7,7 @@ plan:
 - title: Le pattern
   statement: markdowns/lesson1.md
   
-projects
+projects:
   java:
     root: /projects
     buildCommand: cd /projects/Test/src/Test && javac main.java
