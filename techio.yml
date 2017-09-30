@@ -11,4 +11,4 @@ projects:
   java:
     root: /projects
     buildCommand: cd /projects/Test/src/Test && javac main.java
-    runner: java Test.main
+    runner: cd /projects/Test/src && java Test.main
