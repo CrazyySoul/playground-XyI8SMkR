@@ -1,6 +1,7 @@
 # La deuxieme page
 
-'''package Test;
+```java runnable
+package Test;
 
 public class main {
 
@@ -9,4 +10,4 @@ public class main {
 
 	}
 
-}'''
+}```
