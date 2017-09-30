@@ -1,4 +1,6 @@
 title: Design Pattern Decorator
+cover: cover.png
+
 plan:
 - title: Le Decorateur
   statement: markdowns/welcome.md
